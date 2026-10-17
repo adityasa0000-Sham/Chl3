@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WinDroid KeyMaster</string>
+    <string name="accessibility_service_description">Enables Windows keyboard shortcuts (Win+D, Alt+Tab, Alt+F4, Win+E, Win+L, Win+Shift+S, Win+A, Win+N, Win+R) for physical keyboards connected to your Android tablet.</string>
+</resources>
